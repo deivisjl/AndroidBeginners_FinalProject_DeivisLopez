@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Flash Card</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="card.message.hint">Pregunta</string>
+    <string name="card.message.answer">Respuesta</string>
+    <string name="card.message.ok">Guardar</string>
+    <string name="card.message.cancel">Cancelar</string>
+    <string name="card.message.title">Agregar tarjeta</string>
+    <string name="card.message.empty">Complete los campos</string>
+    <string name="detail.message.title">Detalle item</string>
+    <string name="detail.message.ok">OK</string>
+
+    <string name="widget.message.next">Siguiente</string>
+    <string name="widget.message.answer">Ver respuesta</string>
+    <string name="widget.message.question">Ver pregunta</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

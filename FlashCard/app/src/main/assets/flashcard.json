@@ -1,0 +1,20 @@
+{
+  "data":[
+    {
+      "question":"What is a Activity",
+      "answer":"An activity is a single, focused thing that the user can do. Almost all activities interact with the user"
+    },
+    {
+      "question":"What is a Fragment",
+      "answer":"A Fragment represents a behavior or a portion of user interface in an Activity . You can combine multiple fragments in a single activity to build a multi-pane UI"
+    },
+    {
+      "question":"What is a Layout",
+      "answer":"A layout defines the visual structure for a user interface, such as the UI for an activity or app widget "
+    },
+    {
+      "question":"What is a Widget",
+      "answer":"Widgets are an essential aspect of home screen customization. You can imagine them as at-a-glance views of an app's most important data and functionality"
+    }
+  ]
+}
